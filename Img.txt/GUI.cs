@@ -14,6 +14,7 @@ namespace Img.txt
 {
     public partial class GUI : Form
     {
+        //bool result = IronOcr.Installation.IsValidLicense("IRONOCR-MYLICENSE-KEY-1EF01");
         public const int WM_NCLBUTTONDOWN = 0x00A1;
         public const int HT_CAPTION = 0x2;       
         Point endPoint;
